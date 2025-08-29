@@ -1,0 +1,213 @@
+{
+  "system": {
+    "timestamp": "2025-08-29T02:13:12.702604Z",
+    "platform": "Windows",
+    "platform_release": "10",
+    "platform_version": "10.0.26100",
+    "architecture": "AMD64",
+    "hostname": "andreyy",
+    "python_version": "3.10.11"
+  },
+  "network": {
+    "Local Area Connection* 3": [
+      {
+        "family": "AddressFamily.AF_LINK",
+        "address": "08-8E-90-DC-FB-69",
+        "netmask": null,
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET",
+        "address": "169.254.73.9",
+        "netmask": "255.255.0.0",
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET6",
+        "address": "fe80::4461:835f:4700:1390",
+        "netmask": null,
+        "broadcast": null
+      }
+    ],
+    "Local Area Connection* 4": [
+      {
+        "family": "AddressFamily.AF_LINK",
+        "address": "0A-8E-90-DC-FB-68",
+        "netmask": null,
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET",
+        "address": "169.254.1.153",
+        "netmask": "255.255.0.0",
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET6",
+        "address": "fe80::344c:2de9:f5ad:9189",
+        "netmask": null,
+        "broadcast": null
+      }
+    ],
+    "Wi-Fi": [
+      {
+        "family": "AddressFamily.AF_LINK",
+        "address": "08-8E-90-DC-FB-68",
+        "netmask": null,
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET",
+        "address": "192.168.1.186",
+        "netmask": "255.255.255.0",
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET6",
+        "address": "2600:480a:9032:5100::3108",
+        "netmask": null,
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET6",
+        "address": "2600:480a:9032:5100:10d7:2e91:43b5:3736",
+        "netmask": null,
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET6",
+        "address": "2600:480a:9032:5100:79ce:1d32:5e9:95ab",
+        "netmask": null,
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET6",
+        "address": "fe80::477:aaaf:1d55:5820",
+        "netmask": null,
+        "broadcast": null
+      }
+    ],
+    "Bluetooth Network Connection": [
+      {
+        "family": "AddressFamily.AF_LINK",
+        "address": "08-8E-90-DC-FB-6C",
+        "netmask": null,
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET",
+        "address": "169.254.70.57",
+        "netmask": "255.255.0.0",
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET6",
+        "address": "fe80::4ea7:d812:4a98:8f4",
+        "netmask": null,
+        "broadcast": null
+      }
+    ],
+    "Loopback Pseudo-Interface 1": [
+      {
+        "family": "AddressFamily.AF_INET",
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "broadcast": null
+      },
+      {
+        "family": "AddressFamily.AF_INET6",
+        "address": "::1",
+        "netmask": null,
+        "broadcast": null
+      }
+    ],
+    "dns_lookup": [
+      "andreyy",
+      [],
+      [
+        "192.168.1.186"
+      ]
+    ]
+  },
+  "cpu": {
+    "physical_cores": 4,
+    "logical_processors": 8,
+    "cpu_percent_per_cpu": [
+      48.6,
+      53.0,
+      66.2,
+      61.5,
+      35.4,
+      40.0,
+      15.4,
+      16.9
+    ],
+    "cpu_percent_overall": 40.6
+  },
+  "memory": {
+    "total": 8115187712,
+    "available": 597794816,
+    "used": 7517392896,
+    "percent": 92.6
+  },
+  "disks": [
+    {
+      "device": "C:\\",
+      "mountpoint": "C:\\",
+      "fstype": "NTFS",
+      "total": 253672550400,
+      "used": 233578536960,
+      "free": 20094013440,
+      "percent": 92.1
+    }
+  ],
+  "top_processes": [
+    {
+      "pid": 34840,
+      "name": "chrome.exe",
+      "user": "ANDREYY\\andre",
+      "memory_rss": 418078720,
+      "cpu_percent": 0.0
+    },
+    {
+      "pid": 5188,
+      "name": "explorer.exe",
+      "user": "ANDREYY\\andre",
+      "memory_rss": 201887744,
+      "cpu_percent": 0.0
+    },
+    {
+      "pid": 31380,
+      "name": "chrome.exe",
+      "user": "ANDREYY\\andre",
+      "memory_rss": 201625600,
+      "cpu_percent": 0.0
+    },
+    {
+      "pid": 20464,
+      "name": "OneDrive.exe",
+      "user": "ANDREYY\\andre",
+      "memory_rss": 191250432,
+      "cpu_percent": 0.0
+    },
+    {
+      "pid": 25192,
+      "name": "Grammarly.Desktop.exe",
+      "user": "ANDREYY\\andre",
+      "memory_rss": 186372096,
+      "cpu_percent": 0.0
+    }
+  ],
+  "pings": {
+    "8.8.8.8": {
+      "returncode": 0,
+      "stdout": "\nPinging 8.8.8.8 with 32 bytes of data:\nReply from 8.8.8.8: bytes=32 time=13ms TTL=116\n\nPing statistics for 8.8.8.8:\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\nApproximate round trip times in milli-seconds:\n    Minimum = 13ms, Maximum = 13ms, Average = 13ms\n",
+      "stderr": ""
+    },
+    "1.1.1.1": {
+      "returncode": 0,
+      "stdout": "\nPinging 1.1.1.1 with 32 bytes of data:\nReply from 1.1.1.1: bytes=32 time=19ms TTL=56\n\nPing statistics for 1.1.1.1:\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\nApproximate round trip times in milli-seconds:\n    Minimum = 19ms, Maximum = 19ms, Average = 19ms\n",
+      "stderr": ""
+    }
+  }
+}
