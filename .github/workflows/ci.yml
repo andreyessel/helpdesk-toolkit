@@ -37,3 +37,4 @@ jobs:
         run: |
           pip install flake8
           flake8 --max-line-length=120
+          flake8 . --exclude venv,logs,__pycache__,.pytest_cache --max-line-length=120
