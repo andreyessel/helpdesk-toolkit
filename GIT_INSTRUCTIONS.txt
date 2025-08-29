@@ -1,0 +1,17 @@
+
+Git / GitHub quick commands (run in project folder)
+
+# initialize repo, commit, and push to GitHub
+git init
+git add .
+git commit -m "Add helpdesk toolkit: diagnostics, fixes, logging, GUI, ticket export, CI"
+git branch -M main
+# create a GitHub repo in your account, then add the remote:
+git remote add origin https://github.com/<your-username>/<repo-name>.git
+git push -u origin main
+
+# To keep your repo updated:
+# make changes, then:
+git add .
+git commit -m "Small improvements"
+git push

@@ -1,0 +1,38 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+venv*/
+.venv/
+.Python
+
+# virtual env
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Logs and reports
+logs/
+*.log
+*.json
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# IDE/editor project files
+.idea/
+
+# distribution
+dist/
+build/
+*.egg-info/

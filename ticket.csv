@@ -1,0 +1,2 @@
+timestamp,host,python_version,memory_percent,cpu_percent_overall,disk_percent,top_processes
+2025-08-29T02:13:12.702604Z,andreyy,3.10.11,92.6,40.6,92.1,chrome.exe (pid 34840); explorer.exe (pid 5188); chrome.exe (pid 31380); OneDrive.exe (pid 20464); Grammarly.Desktop.exe (pid 25192)
